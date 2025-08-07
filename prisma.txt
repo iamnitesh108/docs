@@ -1,0 +1,6 @@
+- Create model in prisma
+- npx prisma migrate dev --name init
+- npx prisma generate 
+	to generate prisma client so JS can access
+
+- CRUD
